@@ -17,5 +17,6 @@
 [Release](https://github.com/korusdipl/chromium-internal/releases) 메뉴에 있는 파일들을 활용하시면 됩니다.
 
 모든 빌드버전을 컴파일 하지는 않으며, 필요할 때마다 그때 당시에 필요에 가장 적합한 버전을 빌드합니다.
+주로 각 Major 버전 45.x.x.x 46.x.x.x에서 최종적으로 종결되는 버전 위지로 컴파일 할 예정입니다. (M42부터 시작)
 
 감사합니다.
